@@ -1,1 +1,2 @@
-# MySQL-YouTube-Series
+# MySQL-YouTube-Series 
+# Alex The Analyst 
